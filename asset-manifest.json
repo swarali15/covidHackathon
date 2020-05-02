@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/covidHackathon/static/css/main.6ef01daf.chunk.css",
+    "main.js": "/covidHackathon/static/js/main.836d2a0a.chunk.js",
+    "main.js.map": "/covidHackathon/static/js/main.836d2a0a.chunk.js.map",
+    "runtime-main.js": "/covidHackathon/static/js/runtime-main.c17a2431.js",
+    "runtime-main.js.map": "/covidHackathon/static/js/runtime-main.c17a2431.js.map",
+    "static/js/2.51e00660.chunk.js": "/covidHackathon/static/js/2.51e00660.chunk.js",
+    "static/js/2.51e00660.chunk.js.map": "/covidHackathon/static/js/2.51e00660.chunk.js.map",
+    "index.html": "/covidHackathon/index.html",
+    "precache-manifest.4109984c07b4bb7c657ef1175725e491.js": "/covidHackathon/precache-manifest.4109984c07b4bb7c657ef1175725e491.js",
+    "service-worker.js": "/covidHackathon/service-worker.js",
+    "static/css/main.6ef01daf.chunk.css.map": "/covidHackathon/static/css/main.6ef01daf.chunk.css.map",
+    "static/js/2.51e00660.chunk.js.LICENSE.txt": "/covidHackathon/static/js/2.51e00660.chunk.js.LICENSE.txt",
+    "static/media/ACTIVECOVID19.PNG": "/covidHackathon/static/media/ACTIVECOVID19.4ee2c6b2.PNG",
+    "static/media/foodbank.jpeg": "/covidHackathon/static/media/foodbank.3fc34a02.jpeg",
+    "static/media/migrantworkers.PNG": "/covidHackathon/static/media/migrantworkers.27e646c1.PNG",
+    "static/media/populationdensity.PNG": "/covidHackathon/static/media/populationdensity.31b4e9f8.PNG",
+    "static/media/totalagricultureproduction.PNG": "/covidHackathon/static/media/totalagricultureproduction.b8050129.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c17a2431.js",
+    "static/js/2.51e00660.chunk.js",
+    "static/css/main.6ef01daf.chunk.css",
+    "static/js/main.836d2a0a.chunk.js"
+  ]
+}
